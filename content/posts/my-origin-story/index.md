@@ -9,8 +9,7 @@ toc = false
 
 <div class="verse">
 
-echo "Me: Here's my origin story.<br />
-You: KISS, please. Me: OK."<br />
+echo "You: KISS, please. Me: OK, here goes:"<br />
 genre="baroqu-eval progn(rock)"<br />
 quotes="In CLI/shell let me dwell - Air2Dowload<br />
 cd games; ./thundercastle - h.purrShell"<br />
