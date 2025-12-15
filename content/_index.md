@@ -10,7 +10,7 @@ featured_image = "/images/albumCoverLatest.webp"
 
 {{< figure src="/images/profileLatest.webp" alt="Latest profile picture of me, Guitarist Game Composer ~$ GgC." width="50%" >}}
 
-Simply, I compose game music, but with "coder / gamedev" twists:
+I compose game music, but with "coder / gamedev" twists:
 
 -   I script scores in [LilyPond](https://lilypond.org/)
 -   I code instruments in [Csound](https://csound.com/)

@@ -35,6 +35,11 @@ name = "Blog"
 url = "/posts/"
 weight = 2
 [[menu.main]]
+identifier = "Game Music Asset Packs"
+name = "GameMusicPacks"
+url = "/categories/gamemusicassetpacks"
+weight = 2
+[[menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "/contact"
