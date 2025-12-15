@@ -1,0 +1,50 @@
+baseURL = 'https://www.guitaristgamecomposer.com/'
+languageCode = 'en-us'
+title = 'Guitarist Game Composer ~$ GgC'
+
+summaryLength = 1
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+endLevel = 2
+ordered = false
+startLevel = 2
+
+[menu]
+[[menu.main]]
+identifier = "GuitaristGameComposer ~$ GgC"
+name = "GgC"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "posts"
+name = "Blog"
+url = "/posts/"
+weight = 2
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact"
+weight = 5
+
+[params]
+background_color_class = "bg-dark-green"
+body_classes = "avenir bg-near-white"
+cover_dimming_class = "bg-black-80"
+custom_css = ["custom.css"]
+favicon = "/favicon.ico"
+featured_image_class = "cover bg-center"
+post_content_classes = "avenir bg-near-white"

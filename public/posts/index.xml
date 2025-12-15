@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Guitarist Game Composer ~$ GgC</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Guitarist Game Composer ~$ GgC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 17:08:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My origin story</title>
+      <link>http://localhost:1313/posts/my-origin-story/</link>
+      <pubDate>Mon, 15 Dec 2025 17:08:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-origin-story/</guid>
+      <description>&lt;div class=&#34;verse&#34;&gt;&#xA;&lt;p&gt;echo &amp;ldquo;Me: Here&amp;rsquo;s my origin story.&lt;br /&gt;&#xA;You: KISS, please. Me: OK.&amp;quot;&lt;br /&gt;&#xA;genre=&amp;ldquo;baroqu-eval progn(rock)&amp;quot;&lt;br /&gt;&#xA;quotes=&amp;ldquo;In CLI/shell let me dwell - Air2Dowload&lt;br /&gt;&#xA;cd games; ./thundercastle - h.purrShell&amp;rdquo;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;Best, Guitarist Game Composer ~$ GgC&lt;br /&gt;&#xA;PS mysrc=$(cat ajgreengrove | split - ) ;useless cat;in natural language below.&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
